@@ -1,2 +1,1 @@
-# jerry-lau.github.io
-personal posts
+# GitHub Pages
